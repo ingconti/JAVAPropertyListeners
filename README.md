@@ -1,4 +1,4 @@
 # JAVAPropertyListeners
 
-samle project to show mininalist use of listeners.
+sample project to show minimalist use of listeners.
 
